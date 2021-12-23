@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="GoBarber" src="./.github/Capa.png" />
+    <img alt="rentx" src="./.github/Capa.png" />
 </p>
 
 <h1 align="center">
