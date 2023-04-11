@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  RextX
+  RentX
 </h1>
 
 <p align="center">Aplicação Mobile com React Native</p>
