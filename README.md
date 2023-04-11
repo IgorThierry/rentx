@@ -51,5 +51,5 @@ $ expo start
 
 ---
 
-Feito com ♥ by [Igor Thierry](https://www.linkedin.com/in/igor-thierry-bastos-de-pina-204a27a6/)
+Feito com ♥ by [Igor Thierry](https://www.linkedin.com/in/igorthierry/)
 
